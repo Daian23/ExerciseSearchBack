@@ -7,8 +7,10 @@ La app tiene como objetivo mostrar el número de veces que aparece una frase y l
 Frase ingresada por el usuario.
 
 URL ingresada por el usuario.
+-----------------------------------
 
 Ejecutar la aplicación
+-----------------------------------
 
 Dentro del proyecto 
 
