@@ -18,7 +18,7 @@ Ir a la ruta src/main/java/com/sitrack
 
 Ejecutar la clase Main
 
-App corriendo! 
+**App corriendo!**
 
 A continuacón:
 
