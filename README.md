@@ -47,9 +47,9 @@ EL comando anterior:
 
 • Construye nuestra imagen, nombrándola  nombreimagen
 
-• Etiqueta la imagen a través de la -t
+• Etiqueta la imagen a través de la opción -t
 
-• El punto(.) al final del comando le dice a Docker que busque el archivo en el directorio raíz del proyecto 
+• El punto(.) al final del comando le dice a Docker que búsque el archivo en el directorio raíz del proyecto 
 
 **Ejecutar la imagen de Docker**
 
