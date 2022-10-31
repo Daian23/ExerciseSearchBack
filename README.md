@@ -45,7 +45,7 @@ Para **construir nuestra imagen de Docker usando Dockerfile**, ejecutamos:
 
 EL comando anterior:
 
-• Construye nuestro proyecto, nombrándolo  nombreimagen
+• Construye nuestra imagen, nombrándola  nombreimagen
 
 • Etiqueta la imagen a través de la -t
 
