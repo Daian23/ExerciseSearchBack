@@ -14,21 +14,21 @@ EJECUTAR NUESTRA APP MAIN()
 
 Dentro del proyecto: 
 
-Ir a la ruta src/main/java/com/sitrack
+• Ir a la ruta src/main/java/com/sitrack
 
-Ejecutar la clase Main
+• Ejecutar la clase Main
 
 **App corriendo!**
 
 A continuacón:
 
-Ingresar URL 
+• Ingresar URL 
 
-Ingresar frase
+• Ingresar frase
 
 Resultado de la búsqueda
 
-##DOCKER##
+## DOCKER
 
 **Qué es un contenedor?**
 Un contenedor es una unidad estándar de software que empaqueta el código y todas sus dependencias para que la aplicación se ejecute de manera rápida y confiable de un entorno informático a otro. 
@@ -44,8 +44,11 @@ Para **construir nuestra imagen de Docker usando Dockerfile**, ejecutamos:
 **docker build -t nombreimagen .**
 
 EL comando anterior:
+
 • Construye nuestro proyecto, nombrándolo  nombreimagen
+
 • Etiqueta la imagen a través de la -t
+
 • El punto(.) al final del comando le dice a Docker que busque el archivo en el directorio raíz del proyecto 
 
 **Ejecutar la imagen de Docker**
@@ -53,7 +56,9 @@ EL comando anterior:
 **docker run -i nombreimagen**
 
 El comando de arriba:
+
 • Ejecuta la imagen de Docker 
+
 • La opción **-i** mantiene STDIN abierto, es decir, nos va a permitir ingresar datos desde el teclado como la URL 
 
-Listo!App corriendo!
+Listo!App corriendo en Docker!:)
